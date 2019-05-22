@@ -106,13 +106,6 @@
             ]
         }
     },
-    "PRODUCTS_FAIL": {
-        "success": true,
-        "status": "PRODUCTS_FAIL",
-        "data": {
-            "message": "Произошла ошибка. Попробуйте позже."
-        }
-    },
     "FILTER_SUCCESS": {
         "success": true,
         "status": "FILTER_SUCCESS",
